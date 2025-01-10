@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Globalne ustawienia dla całego dokumentu */
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* Przykład użycia w konkretnych elementach */
+h1,
+h2,
+h3 {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+p {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
