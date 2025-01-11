@@ -1,0 +1,5 @@
+Usuń plik wynikowy output.css:
+rm ./dist/output.css
+
+Wygeneruj CSS ponownie:
+npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
